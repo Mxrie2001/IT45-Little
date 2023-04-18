@@ -2,7 +2,7 @@
 
 ## Explication :
 
-L’objectif de ce TP est d’implémenter l’algorithme de Little en C pour résoudre le problème du voyageur de commerce (TSP) et de comparer les performances de différentes méthodes d’optimisation du TSP (solveur/Little principalement)
+TP réalisé dans le cadre de mes études à l'UTBM. L’objectif de ce dernier est d’implémenter l’algorithme de Little en C pour résoudre le problème du voyageur de commerce (TSP) et de comparer les performances de différentes méthodes d’optimisation du TSP (solveur/Little principalement)
 
 ## Commandes utiles :
 
